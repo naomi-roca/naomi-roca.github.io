@@ -34,12 +34,12 @@ sass:
 #email:             email
 #google.plus:        username
 twitter:            username
-#facebook:           username
-github:             username
+facebook:           username         from a   "https://www.facebook.com/"
+github:             username          from  a  "naomi-roca.github.io"
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:         username          from  a "https://instagram.com/_naomi.mrb"
+instagram:         username          from  a "https://instagram.com/_naomi.mrb"
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
