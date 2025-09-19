@@ -2,8 +2,8 @@
 title: Halve
 description: Stylish, Two-Column Jekyll Theme
 url: https://naomi-roca.github.io/
-logo: leopardo.jpg                                    # Site logo
-locale: en_US
+logo: logo.nao.png                                 # Site logo
+locale: en_mexico
 
 # Left Block Images
 background:
