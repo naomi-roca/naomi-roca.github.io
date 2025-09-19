@@ -2,8 +2,11 @@
 layout: home
 ---
 # BLOG PERSONAL 
+ 
+  Sobre mí
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hola, mi nombre es Marithza naomi roca baños , tengo 17 años.
+Soy una persona alegre, creativa y con ganas de disfrutar cada momento de la vida.[vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
 
 To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
 
