@@ -1,13 +1,13 @@
 ---
-layout: home
+layout: NAOOOOO
 ---
 # BLOG PERSONAL 
  
   Sobre mí
 
 Hola, mi nombre es Marithza naomi roca baños , tengo 17 años.
-Soy una persona alegre, creativa y con ganas de disfrutar cada momento de la vida.[vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Soy una persona alegre, creativa y con ganas de disfrutar cada momento de la vida.[naomi ](https://www.instagram.com/_naomi.mrb/).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+Me apasiona la cocina y la música: mi artista favorito es Rauw Alejandro, y en el género de salsa admiro a willie Colón. La música es parte de mi día a día y siempre me inspira.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+También disfruto de las cosas simples como dormir, que es uno de mis mayores placeres 😴. En mi tiempo libre suelo descansar, escuchar música o dedicar momentos especiales a estar con mi novio. Amo muchísimo a mi novio y disfruto cada instante que paso a su lado.
